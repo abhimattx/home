@@ -1,34 +1,18 @@
 {
-    "portfolio": [
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        },
-        {
-            "cover": "/portfolio/1/one.png",
-            "title": "GGWP",
-            "description": "React, JSX, Tailwind, Jest",
-            "url": "http://google.com"
-        }
-    ]
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/devdappvoting.png",
+      "title": "GGWP",
+      "description": "React, Solidity, Web3",
+      "url": "https://www.youtube.com/watch?v=bAjHB94SwYw&ab_channel=Abhisheksingh",
+      "github": "https://github.com/abhimattx/Dapp_Voting"
+    },
+    {
+      "cover": "/portfolio/1/devcover.png",
+      "title": "GGWP",
+      "description": "React, JSX, Tailwind, Jest",
+      "url": "www.google.com",
+      "github": "https://github.com/abhimattx"
+    }
+  ]
 }

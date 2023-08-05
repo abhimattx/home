@@ -33,18 +33,25 @@ const About = () => {
             />
           </h1>
           <p>
-            I'm a very ambitious front-end developer looking for a role in an
-            established IT company with the opportunity to work with the latest
-            technologies on challenging and diverse projects.
+            I am an ambitious Web 3.0 developer actively seeking a role within a
+            blockchain-based company to further enrich my knowledge of
+            blockchain technology.
           </p>
           <p align="LEFT">
-            I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            As a fast learner, I embrace challenges and continuously seek
+            opportunities for growth. My portfolio showcases my proficiency in
+            Web 3.0 development and expertise in writing secure smart contracts
+            using Solidity.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+            At the heart of it all, I remain a tech enthusiast, a traveler, and
+            a student of life, embracing every opportunity to learn and grow
+            both personally and professionally. With a burning passion for Web
+            3.0 development and the transformative power of blockchain
+            technology, I eagerly look forward to making a positive impact and
+            shaping the future of this exciting industry. Together, let's unlock
+            the endless possibilities that lie ahead in this dynamic world of
+            Web 3.0 and revolutionize the way we interact with technology.
           </p>
         </div>
 

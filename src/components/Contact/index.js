@@ -20,7 +20,12 @@ const Contact = () => {
     e.preventDefault()
 
     emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+      .sendForm(
+        'service_t7nf70h',
+        'template_8yqng7p',
+        form.current,
+        '8uvZIHfMB7qqwCAFy'
+      )
       .then(
         () => {
           alert('Message successfully sent!')
@@ -44,9 +49,12 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in freelance opportunities - especially on ambitious
-            or large projects. However, if you have any other requests or
-            questions, don't hesitate to contact me using below form either.
+            I am interested in exploring internship or job opportunities,
+            especially on ambitious or large projects. I am genuinely eager to
+            contribute my skills and passion to make a meaningful impact, as
+            well as to sharpen my existing abilities and learn more in a
+            professional environment. Please don't hesitate to contact me if you
+            have any requests or questions.
           </p>
           <div className="contact-form">
             <form ref={form} onSubmit={sendEmail}>
@@ -85,20 +93,25 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Slobodan Gajić,
+          Abhishek Singh,
           <br />
-          Serbia,
+          czech republic,
           <br />
-          Branka RadiČevića 19, 22000 <br />
-          Sremska Mitrovica <br />
+          nám. T. G. Masaryka 3050, 760 01
           <br />
-          <span>freelancerslobodan@gmail.com</span>
+          Zlín
+          <br />
+          <br />
+          <span>a_singh0510@outlook.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[44.96366, 19.61045]} zoom={13}>
+          <MapContainer
+            center={[49.22015121542699, 17.66645552605774]}
+            zoom={13}
+          >
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[44.96366, 19.61045]}>
-              <Popup>Sloba lives here, come over for a cup of coffee :)</Popup>
+            <Marker position={[49.22015121542699, 17.66645552605774]}>
+              <Popup>Abhishek lives here, come over for a chat :)</Popup>
             </Marker>
           </MapContainer>
         </div>
