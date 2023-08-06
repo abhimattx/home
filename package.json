@@ -1,9 +1,10 @@
 {
-  "homepage": "https://abhimattx.github.io/index",
+  "homepage": "https://abhimattx.github.io/portfolio",
   "name": "abhi_port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emailjs/browser": "^3.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.0.0",

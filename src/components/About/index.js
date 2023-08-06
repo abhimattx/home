@@ -33,25 +33,25 @@ const About = () => {
             />
           </h1>
           <p>
-            I am an ambitious Web 3.0 developer actively seeking a role within a
-            blockchain-based company to further enrich my knowledge of
-            blockchain technology.
+            I am a driven Web 3.0 developer actively pursuing a role within a
+            blockchain-based company to deepen my understanding of blockchain
+            technology.
           </p>
           <p align="LEFT">
-            As a fast learner, I embrace challenges and continuously seek
-            opportunities for growth. My portfolio showcases my proficiency in
-            Web 3.0 development and expertise in writing secure smart contracts
-            using Solidity.
+            As a quick learner, I thrive on challenges and constantly pursue
+            opportunities for growth. My portfolio showcases expertise in Web
+            3.0 development, including writing secure smart contracts using
+            Solidity and building front-end interfaces with react.js.
           </p>
           <p>
-            At the heart of it all, I remain a tech enthusiast, a traveler, and
-            a student of life, embracing every opportunity to learn and grow
-            both personally and professionally. With a burning passion for Web
-            3.0 development and the transformative power of blockchain
-            technology, I eagerly look forward to making a positive impact and
-            shaping the future of this exciting industry. Together, let's unlock
-            the endless possibilities that lie ahead in this dynamic world of
-            Web 3.0 and revolutionize the way we interact with technology.
+            Beyond my technical pursuits, I am a tech enthusiast, traveler, and
+            lifelong learner. I eagerly embrace chances for personal and
+            professional development. Fueled by a strong passion for Web 3.0
+            development and the transformative potential of blockchain
+            technology, I am excited to contribute positively and shape the
+            future of this dynamic industry. Join me in unlocking limitless
+            possibilities in the world of Web 3.0 and revolutionizing our
+            interaction with technology.
           </p>
         </div>
 
