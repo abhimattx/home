@@ -1,14 +1,14 @@
 {
   "portfolio": [
     {
-      "cover": "/portfolio/1/devdappvoting.png",
+      "cover": "https://yourimageshare.com/ib/yLbCyvAsnc.webp",
       "title": "GGWP",
       "description": "React, Solidity, Web3",
       "url": "https://www.youtube.com/watch?v=bAjHB94SwYw&ab_channel=Abhisheksingh",
       "github": "https://github.com/abhimattx/Dapp_Voting"
     },
     {
-      "cover": "/portfolio/1/devcover.png",
+      "cover": "https://yourimageshare.com/ib/NymJSDqovn.webp",
       "title": "GGWP",
       "description": "React, JSX, Tailwind, Jest",
       "url": "https://abhimattx.github.io/portfolio/",

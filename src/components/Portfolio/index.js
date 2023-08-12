@@ -7,7 +7,6 @@ import portfolioData from '../../data/portfolio.json'
 const Portfolio = () => {
   const [letterClass, setLetterClass] = useState('text-animate')
 
-
   useEffect(() => {
     const timer = setTimeout(() => {
       setLetterClass('text-animate-hover')
@@ -35,11 +34,13 @@ const Portfolio = () => {
                 <button className="btn" onClick={() => window.open(port.url)}>
                   View
                 </button>
-                <hr/>
-                <button className="btn" onClick={() => window.open(port.github)}>
+                <hr />
+                <button
+                  className="btn"
+                  onClick={() => window.open(port.github)}
+                >
                   VistGithub
                 </button>
-                
               </div>
             </div>
           )
